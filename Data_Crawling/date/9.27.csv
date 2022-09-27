@@ -1,0 +1,4 @@
+일자,시각,경기결과,중계사,구장
+9.27 (화),18:30,LG  VS 한화,MBC SPORTS+,"대전  setStadiumWeather('대전', 'stadiumWeather0');"
+9.27 (화),18:30,두산  VS KT,"KBS N SPORTS, SPOTV2","수원  setStadiumWeather('수원', 'stadiumWeather1');"
+9.27 (화),18:30,키움  VS NC,"SBS SPORTS, SPOTV","창원  setStadiumWeather('창원', 'stadiumWeather2');"
